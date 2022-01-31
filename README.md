@@ -1,19 +1,12 @@
-Hello, my name is Sihyun An who is student and have been studying ML/DL in Yonsei University.
+Hello, I'm just a student interesting in machine learning, deep learing, and data science.
 
-I have daul majors in Information & Statistics and Inudstrial Engineering.
+I have mainly used python for making notebook.
 
-In my repository, you can see the background of statistics, machine and deep learning, and extra...
+For my interesting, I will upload my private project such as kaggle, research, projects, and so on.
 
-So, I hope you take some useful information by glancing my posts and I will try to make you understand more easily.
+This github will be personal since I don't think you visit at my github.
 
-My e-mail address is ash_stat@yonsei.ac.kr.
-
-If you have any question, please notify me about that.
-
-Thank you.
-
-Sihyun An
-
+However, if you do, whenever I will welcome you.
 
 <!---
 Pythonash/Pythonash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
