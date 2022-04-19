@@ -44,7 +44,7 @@ Construction of AI technology based real estate price estimating system, 2020 - 
 
 ## Papers
 
-- Hidden inequality in housing prices: Driven by education
+- Hidden inequality in housing prices: Driven by education level
 
 - Assessing the greenness of urban streets and its associations with housing prices
 
